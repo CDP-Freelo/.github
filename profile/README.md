@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://www.olivio.com.ar/favicon.svg" alt="Símbolo de Olivio" width="88" height="88">
-
-  <h1>Olivio</h1>
+  <img src="https://raw.githubusercontent.com/CDP-Freelo/.github/main/profile/recursos/marca-olivio-azul.svg" alt="Olivio" width="340">
   <p><strong>Diseño y desarrollo web</strong></p>
   <p>Sitios web y tiendas online que ayudan a mostrar mejor cada negocio.</p>
   <p><a href="https://www.olivio.com.ar/">Conocé Olivio</a></p>
